@@ -1,0 +1,19 @@
+.idea/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Java / Maven
+target/
+*.class
+
+# OS files
+Thumbs.db
+Desktop.ini
