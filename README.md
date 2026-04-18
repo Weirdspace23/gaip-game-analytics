@@ -3,6 +3,9 @@
 A full-stack gaming analytics platform that tracks player performance,
 records match statistics, and predicts player tiers using machine learning.
 
+## Video Link
+https://youtu.be/Z3tjEakWL_Q?si=xzdoiYaPnDq1MIyT
+
 ## Tech Stack
 
 - **Backend:** Java Spring Boot, PostgreSQL, JPA/Hibernate
